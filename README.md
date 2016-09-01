@@ -1,11 +1,11 @@
 # Lab 02 -- Chapter 01
 
-## Define the followint terms:
-* object,
-* class,
-* instance,
-* method,
-* signature,
+## Define the following terms:
+* Object- All classes that have no obvious superclass. Java objects model objects from a problem domain
+* Class- describes the kind of objects represent instances of the class. A class name can be used as the type for a variable. Variables that have a class as theirtype can store objects of that class.
+* Instance- objects of a particular class
+* method- a procedure associated with an object
+* signature- 
 * parameter,
 * type,
 * state,
