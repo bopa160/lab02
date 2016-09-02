@@ -5,12 +5,12 @@
 * Class- describes the kind of objects represent instances of the class. A class name can be used as the type for a variable. Variables that have a class as theirtype can store objects of that class.
 * Instance- objects of a particular class
 * method- a procedure associated with an object
-* signature- 
-* parameter,
-* type,
-* state,
-* source code,
-* return value,
+* signature-  used to provide applications the functionality of a digital signature algorithm.
+* parameter- a special kind of variable, used in a subroutine to refer to one of the pieces of data provided as input to the subroutine.
+* type- the common superinterface for all types in the programming language. 
+* state- defined by the attributes of the object and by the values these have.
+* source code- a text listing of commands to be compiled or assembled into an executable computer program.
+* return value- 
 * compiler
 
 ## In Chapter 1 we have mentioned the data types int and String. Java has more predefined data types. Find out what they are and what they are used for. To do this, you can check Appendix B, or look it up in another Java book or in an online Java language manual. One such manual is at [http://download.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html](http://download.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
