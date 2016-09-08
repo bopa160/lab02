@@ -29,18 +29,19 @@
 ## What are the types of the following values?
 
 * 0: int, double, float
-* "hello": char
-* 101: int
-* -1: int
+* "hello": String
+* 101: int, double, float
+* -1: int, double, float
 * true: boolean value
-* "33": char
-* 3.1415: float
+* "33": String
+* 3.1415: float, double
 
 ## What would you have to do to add a new field, for example one called name, to a circle object?
-I would have to add private String name to the source code.
+
+private String name;
 
 ## Write the header for a method named send that has one parameter of type String, and does not return a value.
-public void Send (String circle)
+public void Send (String var1)
 
 ## Write the header for a method named average that has two parameters, both of type int, and returns an int value.
 public void int average (int firstInt, int secondInt)
