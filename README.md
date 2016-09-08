@@ -28,7 +28,7 @@
 
 ## What are the types of the following values?
 
-* 0: byte
+* 0: int, double, float
 * "hello": char
 * 101: int
 * -1: int
