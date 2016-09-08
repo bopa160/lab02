@@ -1,11 +1,11 @@
 # Lab 02 -- Chapter 01
 
 ## Define the following terms:
-* Object- All classes that have no obvious superclass. Java objects model objects from a problem domain
-* Class- describes the kind of objects represent instances of the class. A class name can be used as the type for a variable. Variables that have a class as their type can store objects of that class.
-* Instance- objects of a particular class
-* method- a procedure associated with an object
-* signature-  used to provide applications the functionality of a digital signature algorithm.
+* Object- State or gehavior (instance) of a class
+* Class- a blueprint (code) that defines how to create an object.
+* Instance- a specific realization of any object.
+* method- a collection of statements, within a class, used to manipulate (mutators) or access (accessors) infomation from an object. (behaves like a function in math) 
+* signature- the name of the method and the type of parameter. Ex. the foolowing signature changes the size of the instance 'box' of class   [void change Size(Box box)]
 * parameter- a special kind of variable, used in a subroutine to refer to one of the pieces of data provided as input to the subroutine.
 * type- the common superinterface for all types in the programming language. 
 * state- defined by the attributes of the object and by the values these have.
