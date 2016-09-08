@@ -1,17 +1,28 @@
 # Lab 02 -- Chapter 01
 
 ## Define the following terms:
-* Object- State or gehavior (instance) of a class
+
+* Object- State or behavior (instance) of a class
+* 
 * Class- a blueprint (code) that defines how to create an object.
+* 
 * Instance- a specific realization of any object.
+* 
 * method- a collection of statements, within a class, used to manipulate (mutators) or access (accessors) infomation from an object. (behaves like a function in math) 
+* 
 * signature- the name of the method and the type of parameter. Ex. the foolowing signature changes the size of the instance 'box' of class   [void change Size(Box box)]
-* parameter- a special kind of variable, used in a subroutine to refer to one of the pieces of data provided as input to the subroutine.
-* type- the common superinterface for all types in the programming language. 
-* state- defined by the attributes of the object and by the values these have.
-* source code- a text listing of commands to be compiled or assembled into an executable computer program.
-* return value- enable us to get information from a object via a method call.
-* compiler- translates the code into machine code.
+* 
+* parameter- an input of the method. I.e. 'box' is the parameter in the example above.
+* 
+* type- defines what values the parameter is allowed to be.
+* 
+* state- set of values decribing a object.
+* 
+* source code- Colection of written commands that compiles to created an executable program.
+* 
+* return value- enable us to get information from a object via a method call. (output of a method)
+* 
+* compiler- translates the source code into computer language. (forces the computer to read the instructions).
 
 ## In Chapter 1 we have mentioned the data types int and String. Java has more predefined data types. Find out what they are and what they are used for. To do this, you can check Appendix B, or look it up in another Java book or in an online Java language manual. One such manual is at [http://download.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html](http://download.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
 
